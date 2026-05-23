@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 SAGAR K.C.
 Aspiring AI Engineer | GenAI and LLMs Enthusiast
 
 
