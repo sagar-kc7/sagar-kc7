@@ -1,5 +1,5 @@
 # SAGAR K.C.
-Aspiring AI Engineer | GenAI and LLMs Enthusiast
+AI/ML Engineer | GenAI and LLMs Enthusiast
 
 
 ## 🌐 Socials:
