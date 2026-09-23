@@ -28,7 +28,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sagar-kc7&theme=dark&hide_border=false&layout=compact" height="165" />
-</p>
